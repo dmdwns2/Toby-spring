@@ -1,8 +1,8 @@
 package java.com.line.parser;
 
-import com.line.domain.Hospital;
 
-// alt + enter
+import java.com.line.domain.Hospital;
+
 public class HospitalParser implements Parser<Hospital>{
 
     private String getSubdivision(String name) {

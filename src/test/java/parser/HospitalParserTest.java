@@ -1,10 +1,11 @@
 package parser;
 
-import com.line.domain.Hospital;
-import com.line.parser.HospitalParser;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+
+import java.com.line.domain.Hospital;
+import java.com.line.parser.HospitalParser;
 
 class HospitalParserTest {
     // annotation

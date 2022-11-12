@@ -1,7 +1,7 @@
 package java.com.line;
 
-import com.line.parser.Parser;
 
+import java.com.line.parser.Parser;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;

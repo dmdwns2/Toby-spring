@@ -1,8 +1,7 @@
 package java.com.line;
 
-import com.line.domain.Hospital;
-import com.line.parser.HospitalParser;
-
+import java.com.line.domain.Hospital;
+import java.com.line.parser.HospitalParser;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;

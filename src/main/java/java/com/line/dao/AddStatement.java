@@ -1,7 +1,7 @@
 package java.com.line.dao;
 
-import com.line.domain.User;
 
+import java.com.line.domain.User;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;

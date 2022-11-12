@@ -4,8 +4,8 @@ package java.com.line.dao;
 //POJO java DB 연동
 
 
-import com.line.domain.User;
 
+import java.com.line.domain.User;
 import java.sql.*;
 import java.util.Map;
 

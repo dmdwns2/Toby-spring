@@ -1,9 +1,6 @@
 package dao;
 
 
-import com.line.dao.UserDao;
-import com.line.dao.UserDaoFactory;
-import com.line.domain.User;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -14,6 +11,9 @@ import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 
+import java.com.line.dao.UserDao;
+import java.com.line.dao.UserDaoFactory;
+import java.com.line.domain.User;
 import java.sql.SQLException;
 import java.util.List;
 
